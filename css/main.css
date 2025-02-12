@@ -512,8 +512,7 @@ body{
 }
 @media (max-width:768px){
   .calender{
-
-    bottom: -50px;
+    bottom: -70px;
   }
 
   .calender .inner .c_con .date_con p{
